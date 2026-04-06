@@ -1,3 +1,11 @@
+def foo(x, y):
+    return (x*y)+1
+
+
+def bar(num, power):
+    return (num**power)
+
+
 def func1():
     lst = []
     print('Enter numbers one at a time. Enter 0 to stop.')
