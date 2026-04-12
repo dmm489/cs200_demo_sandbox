@@ -16,3 +16,10 @@ Source used: https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
 - One or more headings
 - A list (bulleted, numbered, or checkboxes)
 - **Bold** or *italicized* text
+
+
+## This is how you'd create a table in markdown
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Cell 1   | Cell 2   |
+| Cell 3   | Cell 4   |
